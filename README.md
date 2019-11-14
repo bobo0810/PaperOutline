@@ -8,14 +8,13 @@
 # 说明
 - 最近在写大论文，抽空mark一下 写小论文的思路和步骤。
 - 无分好坏，仅限参考。
+- 待更新 示例论文分解结构。
 - 待更新...
 
 # 预览
 
-![](https://github.com/bobo0810/PaperOutline/blob/master/ExamplePaper/DeepNode论文大纲.png)
-
 ![](https://github.com/bobo0810/PaperOutline/blob/master/论文大纲.png)
-
+![](https://github.com/bobo0810/PaperOutline/blob/master/ExamplePaper/DeepNode论文大纲.png)
 
 ----------
  # 参考文献
