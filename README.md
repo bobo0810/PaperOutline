@@ -11,7 +11,12 @@
 - 待更新...
 
 # 预览
-![](https://github.com/bobo0810/PaperOutline/master/ExamplePaper/DeepNode论文大纲.svg)
+
+![](https://github.com/bobo0810/PaperOutline/blob/master/ExamplePaper/DeepNode论文大纲.png)
+
+![](https://github.com/bobo0810/PaperOutline/blob/master/论文大纲.png)
+
+
 ----------
  # 参考文献
 
